@@ -27,7 +27,7 @@ namespace Delegates.Q1._2020
         ///            x => x < 10
         ///       });
         /// </example>
-        public static Predicate<T> CombinePredicatesWithAnd<T>(Predicate<T>[] predicates)
+        public static Predicate<T> CombinePredicatesWithAnd<T>(this Predicate<T>[] predicates)
         {
             if (predicates is null)
             {
