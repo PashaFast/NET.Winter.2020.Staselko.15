@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.Q1.2020", "Delegates.Q1.2020\Delegates.Q1.2020.csproj", "{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.Q1.2020.Tests", "Delegates.Q1.2020.Tests\Delegates.Q1.2020.Tests.csproj", "{3D88D501-3813-4BA1-8881-014AE6710222}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Generics.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
